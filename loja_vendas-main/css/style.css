@@ -3,6 +3,14 @@ html {
     font-family: "Ojuju", sans-serif;
 }
 
-div{background-color:#BD3CAD;
+h1{
+color:red    
+}
+
+div{
+    background-color:red
     height:20px;
-    width:20px;}
+    width:20px;
+
+
+}
